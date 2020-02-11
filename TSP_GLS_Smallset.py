@@ -156,11 +156,11 @@ eta = 1000
 max_iter = 1000
 max_unimproved = 500
 
-path_1 = 'D:/Project toan roi rac/Code/Small set/bcl380.txt'
-path_2 = 'D:/Project toan roi rac/Code/Small set/pbk411.txt'
-path_3 = 'D:/Project toan roi rac/Code/Small set/pbl395.txt'
-path_4 = 'D:/Project toan roi rac/Code/Small set/pbm436.txt'
-path_5 = 'D:/Project toan roi rac/Code/Small set/pbn423.txt'
+path_1 = '~/metaheuristics_20191/TSP/smallset/bcl380.txt'
+path_2 = '~/metaheuristics_20191/TSP/smallset/pbk411.txt'
+path_3 = '~/metaheuristics_20191/TSP/smallset/pbl395.txt'
+path_4 = '~/metaheuristics_20191/TSP/smallset/pbm436.txt'
+path_5 = '~/metaheuristics_20191/TSP/smallset/pbn423.txt'
 
 paths = [path_1, path_2, path_3, path_4, path_5]
 
